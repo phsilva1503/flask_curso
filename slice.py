@@ -27,5 +27,5 @@ print(lastChar)  # Output: 'n'
 fromIndexTwoToEnd = movieName[2:]
 print(fromIndexTwoToEnd)  # Output: 'p Gun'
 # Get the characters from the beginning of the movie name to index 4 (exclusive)
-fromStartToIndexFour = movieName[:4]
+
 
